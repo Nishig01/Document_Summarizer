@@ -1,0 +1,4 @@
+anthropic>=0.39.0
+pypdf>=4.0.0
+sentence-transformers>=2.5.0
+numpy>=1.24.0
