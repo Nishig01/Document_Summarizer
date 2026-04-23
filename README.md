@@ -1,4 +1,4 @@
-# RAG PDF Summarizer
+# Intelligent Document 
  
 A Retrieval-Augmented Generation (RAG) based PDF summarizer that uses Claude to generate summaries and answer questions about PDF documents.
  
